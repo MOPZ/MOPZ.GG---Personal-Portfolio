@@ -1,0 +1,28 @@
+.white{
+	color:#FBFCFF;
+}
+
+
+.grey{
+	color: #5A5C61;
+}
+
+.dark{
+	color:#272727;
+}
+
+.lightgreen{
+	color: #00E68A;
+}
+
+.hover-green:hover{
+	color: #00E68A;
+}
+
+.bg-white{
+	background-color: #FBFCFF;
+}
+
+.bg-dark{
+	background-color: #272727;
+}
